@@ -1,4 +1,4 @@
-wordpress-common-styles
+Wordpress Common Styles
 =======================
 
-Wordpress Common Styles
+CSS for my Wordpress instalations...
